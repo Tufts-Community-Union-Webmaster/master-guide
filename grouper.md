@@ -4,6 +4,8 @@ The Tufts Community Union government utilizes multiple internal distribution lis
 
 ## Shared Inboxes
 
+### Introduction
+
 In order to maximize the transparency and accessibility for the student body as well as ease-of-use for the TCU Government:
 
 - Shared inboxes should be the main point of communication and point of contact for all government operations.
@@ -24,6 +26,8 @@ Shared inboxes should be advertised on the website and in all Instagram bios. Wh
 
 ### List of Inboxes
 
+*not case sensitive*
+
 | Inbox Name                       | Alias                             | Access Link                                                       | Grouper Permission Group | Membership                   |
 | -------------------------------- | --------------------------------- | ----------------------------------------------------------------- | ------------------------ | ---------------------------- |
 | TCUElectionsCommission@tufts.edu | TCUECOM@tufts.edu, ecom@tufts.edu | https://outlook.office.com/mail/TCUElectionsCommission@tufts.edu/ | TCUECOM_Permissions      | All of ECOM                  |
@@ -32,9 +36,7 @@ Shared inboxes should be advertised on the website and in all Instagram bios. Wh
 | TCUTreasury@tufts.edu            | N/A                               | https://outlook.office.com/mail/TCUTreasury@tufts.edu/            | TCUTREASURY_Permissions  | Treasurers                   |
 | TCUWebmaster@tufts.edu           | N/A                               | https://outlook.office.com/mail/TCUWebmaster@tufts.edu/           | TCUWEBMASTER_Permissions | Webmaster + OCL + Chair CSL  |
 
-_not case sensitive_
-
-### Accessing Inboxes
+### Instructions for Accessing Inboxes
 
 Inboxes can be accessed by the following:
 
@@ -68,11 +70,15 @@ Inboxes can be accessed by the following:
 
 [VIDEO TUTORIAL](https://tufts.box.com/s/dzwgkzio9xi2ejhmlutm52iec7auyy77 "https://tufts.box.com/s/dzwgkzio9xi2ejhmlutm52iec7auyy77")
 
-## Controlling Access: Grouper
+## Distribution Lists
 
-Grouper is a tool used to control access to membership across different systems at Tufts.
 
-### Access Grouper
+
+## Controlling Access with Grouper
+
+Grouper is a tool used to control access to membership across different systems at Tufts. Grouper membership utilizes UTLNs. Grouper lists sync with the active directory approximately 30 minutes after changes are made.
+
+### Instructions for Accessing Grouper
 
 1. Go to https://grouper.it.tufts.edu
 
@@ -88,7 +94,7 @@ You should now see the groups:
 
 <img title="" src="assets/grouper/4.png" alt="" width="518">
 
-### Description of Grouper Groups
+### List of Grouper Groups
 
 | Grouper Name             | Purpose                                                                                | Membership                   |
 | ------------------------ | -------------------------------------------------------------------------------------- | ---------------------------- |
@@ -101,12 +107,10 @@ You should now see the groups:
 
 ### Managing Grouper Membership
 
-Grouper membership utilizes UTLNs. Grouper lists sync with the active directory approximately 30 minutes after changes are made. First, it is essential that the TCU Directory is properly updated.
-
 > [!WARNING]
 > It is absolutely critical that ECOM emails OCL every time there is any change in membership in the TCU Government. Similarly, the Senate must email OCL every time a change happens within the Senate like a resignation or Trustee Rep appointment. This is the only way the TCU Directory can remain up-to-date.
 
-##### Add members:
+##### Instructions for adding members:
 
 1. Ensure the TCU Directory is up-to-date
 
@@ -144,7 +148,7 @@ Grouper membership utilizes UTLNs. Grouper lists sync with the active directory 
 
 [VIDEO TUTORIAL](https://tufts.box.com/s/galy65ytjtf0hn5sc5g1wd1nlkw5jzlc "https://tufts.box.com/s/galy65ytjtf0hn5sc5g1wd1nlkw5jzlc")
 
-##### Remove members:
+##### Instructions for removing members:
 
 If you need to remove an individual member (possibly due to a resignation):
 
@@ -155,4 +159,4 @@ If you need to remove an individual member (possibly due to a resignation):
 3. Press `Remove selected members`
 
 > [!NOTE]
-> Only use the "Remove members" steps if you are removing a single member. If doing a transition, follow the Add members" steps and ensure the `Replace existing members` is checked.
+> Only use the "Remove members" steps if you are removing a single member. If doing a transition, follow the "Add members" steps and ensure the `Replace existing members` is checked.
