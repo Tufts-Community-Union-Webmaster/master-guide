@@ -86,7 +86,7 @@ Grouper is a tool used to control access to membership across different systems 
 
 You should now see the groups:
 
-![](assets/grouper/4.png)
+<img title="" src="assets/grouper/4.png" alt="" width="518">
 
 ### Description of Grouper Groups
 
@@ -101,4 +101,62 @@ You should now see the groups:
 
 ### Managing Grouper Membership
 
-Grouper membership utilizes UTLNs.
+Grouper membership utilizes UTLNs. Grouper lists sync with the active directory approximately 30 minutes after changes are made. First, it is essential that the TCU Directory is properly updated.
+
+> [!WARNING]
+> 
+> It is absolutely critical that ECOM emails OCL every time there is any change in membership in the TCU Government. Similarly, the Senate must email OCL every time a change happens within the Senate like a resignation or Trustee Rep appointment. This is the only way the TCU Directory can remain up-to-date.
+
+##### Add members:
+
+1. Ensure the TCU Directory is up-to-date
+
+2. Copy the respective UTLNs; *Separate columns are available to the right of the Senate tab for TCUSENATE_Permissions and TCUTreasury_Permissions*
+
+<img title="" src="assets/grouper/G1.png" alt="" width="466">
+
+3. Navigate to the correct Grouper group
+
+<img title="" src="assets/grouper/4.png" alt="" width="469">
+
+4. Press `Add members`
+
+<img title="" src="assets/grouper/G3.png" alt="" width="473">
+
+5. Press `Import a list of members`
+
+<img title="" src="assets/grouper/G4.png" alt="" width="473">
+
+6. Press `Copy/paste a list of member IDs`
+
+<img title="" src="assets/grouper/G5.png" alt="" width="477">
+
+7. Paste the copied UTLNs into the box
+
+8. Press `Validate entries`
+
+<img title="" src="assets/grouper/G6.png" alt="" width="476">
+
+9. Check `Replace existing members`. This option will completely clear the list before adding the list you have inputted into the text box. Keep this checked unless you are making a small adjustment like adding 1 member.
+
+10. Press `Add members`
+
+<img title="" src="assets/grouper/G7.png" alt="" width="480">
+
+##### Remove members:
+
+If you need to remove an individual member (possibly due to a resignation):
+
+1. Navigate to the correct Grouper group
+
+2. Select the checkbox next to the person you wish to remove
+
+3. Press `Remove selected members`
+
+> [!NOTE]
+> 
+> Only use the "Remove members" steps if you are removing a single member. If doing a transition, follow the Add members" steps and ensure the `Replace existing members` is checked.
+
+
+
+
