@@ -38,19 +38,22 @@ _not case sensitive_
 
 Inboxes can be accessed by the following:
 
+<details>
+<summary>Website</summary>
+1. Log in to your normal Tufts [Outlook](https://outlook.office.com/mail/)
+2. Press your icon picture in the top right corner
+3. Press "Open another mailbox"
+4. Type in the shared inbox's email address into the box
+5. Press "Open"
+[VIDEO TUTORIAL](https://tufts.box.com/s/5qmfik7nz1xmtbb3atwytvelxk8v4ahp "https://tufts.box.com/s/5qmfik7nz1xmtbb3atwytvelxk8v4ahp")
+
+</details>
+
+
+
 ##### Website:
 
-1. Log in to your normal Tufts [Outlook](https://outlook.office.com/mail/)
-
-2. Press your icon picture in the top right corner
-
-3. Press "Open another mailbox"
-
-4. Type in the shared inbox's email address into the box
-
-5. Press "Open"
-
-![Video Tutorial](assets/grouper/OpenOutlookWebsite.mov)
+1. 
 
 ##### MacOS:
 
@@ -67,8 +70,6 @@ Inboxes can be accessed by the following:
 3. Press "Add Shared Mailbox"
 
 [VIDEO TUTORIAL](https://tufts.box.com/s/dzwgkzio9xi2ejhmlutm52iec7auyy77 "https://tufts.box.com/s/dzwgkzio9xi2ejhmlutm52iec7auyy77")
-
-
 
 ## Controlling Access: Grouper
 
