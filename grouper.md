@@ -38,7 +38,7 @@ _not case sensitive_
 
 Inboxes can be accessed by the following:
 
-Website:
+##### Website:
 
 1. Log in to your normal Tufts [Outlook](https://outlook.office.com/mail/)
 
@@ -52,11 +52,25 @@ Website:
 
 ![Video Tutorial](assets/grouper/OpenOutlookWebsite.mov)
 
+##### MacOS:
+
+1. Press "File" > "Open" > Shared Mailbox
+
+[VIDEO TUTORIAL](https://tufts.box.com/s/t826rdimdpf6yhh8yaxosqn5msciz6kx "https://tufts.box.com/s/t826rdimdpf6yhh8yaxosqn5msciz6kx")
+
+##### iOS:
+
+1. Press your icon in the top left
+
+2. Press the email with a plus sign on the left side of the screen
+
+3. Press "Add Shared Mailbox"
+
+[VIDEO TUTORIAL](https://tufts.box.com/s/dzwgkzio9xi2ejhmlutm52iec7auyy77 "https://tufts.box.com/s/dzwgkzio9xi2ejhmlutm52iec7auyy77")
+
 
 
 ## Controlling Access: Grouper
-
-
 
 ### Description of Grouper Groups
 
