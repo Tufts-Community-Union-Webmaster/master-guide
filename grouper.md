@@ -143,6 +143,8 @@ Grouper membership utilizes UTLNs. Grouper lists sync with the active directory 
 
 <img title="" src="assets/grouper/G7.png" alt="" width="480">
 
+[VIDEO TUTORIAL](https://tufts.box.com/s/galy65ytjtf0hn5sc5g1wd1nlkw5jzlc "https://tufts.box.com/s/galy65ytjtf0hn5sc5g1wd1nlkw5jzlc")
+
 ##### Remove members:
 
 If you need to remove an individual member (possibly due to a resignation):
