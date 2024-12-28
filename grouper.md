@@ -38,22 +38,19 @@ _not case sensitive_
 
 Inboxes can be accessed by the following:
 
-<details>
-<summary>Website</summary>
-1. Log in to your normal Tufts [Outlook](https://outlook.office.com/mail/)
-2. Press your icon picture in the top right corner
-3. Press "Open another mailbox"
-4. Type in the shared inbox's email address into the box
-5. Press "Open"
-[VIDEO TUTORIAL](https://tufts.box.com/s/5qmfik7nz1xmtbb3atwytvelxk8v4ahp "https://tufts.box.com/s/5qmfik7nz1xmtbb3atwytvelxk8v4ahp")
-
-</details>
-
-
-
 ##### Website:
 
-1. 
+1. Log in to your normal Tufts [Outlook](https://outlook.office.com/mail/)
+
+2. Press your icon picture in the top right corner
+
+3. Press "Open another mailbox"
+
+4. Type in the shared inbox's email address into the box
+
+5. Press "Open"
+
+[VIDEO TUTORIAL](https://tufts.box.com/s/5qmfik7nz1xmtbb3atwytvelxk8v4ahp "https://tufts.box.com/s/5qmfik7nz1xmtbb3atwytvelxk8v4ahp")
 
 ##### MacOS:
 
@@ -73,6 +70,24 @@ Inboxes can be accessed by the following:
 
 ## Controlling Access: Grouper
 
+Grouper is a tool used to control access to membership across different systems at Tufts.
+
+### Access Grouper
+
+1. Go to https://grouper.it.tufts.edu
+
+2. Sign in
+
+<img title="" src="file:///Users/anand/Library/Application%20Support/marktext/images/757a436482894c19eef62ad440ccb020e5457232.png" alt="" width="522">
+
+3. Press `My groups` 
+
+<img title="" src="file:///Users/anand/Library/Application%20Support/marktext/images/9670ba025081671e9ef3b1f97591048bb563ec1a.png" alt="" width="244">
+
+You should now see the groups:
+
+![](/Users/anand/Library/Application%20Support/marktext/images/8634d47b557e41f19aa43bcb022a5ebea308e474.png)
+
 ### Description of Grouper Groups
 
 | Grouper Name             | Purpose                                                                                | Membership                   |
@@ -83,3 +98,9 @@ Inboxes can be accessed by the following:
 | TCUSENATE_Permissions    | Control access to Senate's shared inbox                                                | Senate Exec + Chair Outreach |
 | TCUTREASURY_Permissions  | Control access to Treasury's shared inbox                                              | Treasurers                   |
 | TCUWEBMASTER_Permissions | Control access to Webmaster's shared inbox & designate ownership of all Grouper groups | Webmaster + OCL + Chair CSL  |
+
+### Managing Grouper Membership
+
+Grouper membership utilizes UTLNs.
+
+
