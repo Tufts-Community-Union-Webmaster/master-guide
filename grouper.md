@@ -4,7 +4,7 @@ The Tufts Community Union government utilizes multiple internal distribution lis
 
 ## Shared Inboxes
 
-### Introduction
+### Introduction to Shared Inboxes
 
 In order to maximize the transparency and accessibility for the student body as well as ease-of-use for the TCU Government:
 
@@ -70,7 +70,32 @@ Inboxes can be accessed by the following:
 
 [VIDEO TUTORIAL](https://tufts.box.com/s/dzwgkzio9xi2ejhmlutm52iec7auyy77 "https://tufts.box.com/s/dzwgkzio9xi2ejhmlutm52iec7auyy77")
 
+### Out of Office Messages
+
+Setting up out of office (OOO) auto-reply messages are pretty intuitive and there are a number of guides online. The TCU Government should set up OOO on any inbox they are not actively checking, notably during breaks. This is essential for ensuring the student body has trust that when contacting the government, someone is actively checking the inbox unless they are notified otherwise.
+
 ## Distribution Lists
+
+### Introduction to Distribution Lists
+
+Distribution Lists (DLs) are lists internal to the TCU Government that allow for government-wide or branch-wide communication. The membership for DLs are defined by Grouper, the same way access is defined shared inboxes. DLs are different from e-lists. E-lists are used for external communication to large groups of the student body.
+
+### List Settings
+
+- Lists are automatically hidden from the Outlook directory, because we do not want to confuse a student searching for a TCU email in the directory.
+
+- All members of the TCU Government can email any of the distribution lists. However, the general student body cannot email these. They are meant for internal use only.
+
+- For OCL/other administrators who may need to contact these lists, they should be added to members of the `TCUWEBMASTER_Permissions` grouper group.
+
+### List of Distribution Lists
+
+| Email Address                   | Membership                | Grouper Group                                        |
+| ------------------------------- | ------------------------- | ---------------------------------------------------- |
+| TCUGovernmentOfficers@tufts.edu | All of the TCU Government | All of the below combined + TCUWEBMASTER_Permissions |
+| TCUSenateOfficers@tufts.edu     | All of Senate             | TCUSENATE_ALL                                        |
+| TCUJOfficers@tufts.edu          | All of J                  | TCUJUDICIARY_Permissions                             |
+| TCUECOMOfficers@tufts.edu       | All of ECOM               | TCUECOM_Permissions                                  |
 
 
 
