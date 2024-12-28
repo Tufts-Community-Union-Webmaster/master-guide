@@ -78,15 +78,15 @@ Grouper is a tool used to control access to membership across different systems 
 
 2. Sign in
 
-<img title="" src="file:///Users/anand/Library/Application%20Support/marktext/images/757a436482894c19eef62ad440ccb020e5457232.png" alt="" width="522">
+<img title="" src="assets/grouper/2.png" alt="" width="522">
 
 3. Press `My groups` 
 
-<img title="" src="file:///Users/anand/Library/Application%20Support/marktext/images/9670ba025081671e9ef3b1f97591048bb563ec1a.png" alt="" width="244">
+<img title="" src="assets/grouper/3.png" alt="" width="244">
 
 You should now see the groups:
 
-![](/Users/anand/Library/Application%20Support/marktext/images/8634d47b557e41f19aa43bcb022a5ebea308e474.png)
+![](assets/grouper/4.png)
 
 ### Description of Grouper Groups
 
@@ -102,5 +102,3 @@ You should now see the groups:
 ### Managing Grouper Membership
 
 Grouper membership utilizes UTLNs.
-
-
