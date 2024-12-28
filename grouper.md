@@ -104,7 +104,6 @@ You should now see the groups:
 Grouper membership utilizes UTLNs. Grouper lists sync with the active directory approximately 30 minutes after changes are made. First, it is essential that the TCU Directory is properly updated.
 
 > [!WARNING]
-> 
 > It is absolutely critical that ECOM emails OCL every time there is any change in membership in the TCU Government. Similarly, the Senate must email OCL every time a change happens within the Senate like a resignation or Trustee Rep appointment. This is the only way the TCU Directory can remain up-to-date.
 
 ##### Add members:
@@ -156,9 +155,4 @@ If you need to remove an individual member (possibly due to a resignation):
 3. Press `Remove selected members`
 
 > [!NOTE]
-> 
 > Only use the "Remove members" steps if you are removing a single member. If doing a transition, follow the Add members" steps and ensure the `Replace existing members` is checked.
-
-
-
-
