@@ -28,7 +28,7 @@ Shared inboxes should be advertised on the website and in all Instagram bios. Wh
 
 *not case sensitive*
 
-| Inbox Name                       | Alias                             | Access Link                                                       | Grouper Permission Group | Membership                   |
+| Inbox Name                       | Alias                             | Access Link                                                       | Grouper Group            | Membership                   |
 | -------------------------------- | --------------------------------- | ----------------------------------------------------------------- | ------------------------ | ---------------------------- |
 | TCUElectionsCommission@tufts.edu | TCUECOM@tufts.edu, ecom@tufts.edu | https://outlook.office.com/mail/TCUElectionsCommission@tufts.edu/ | TCUECOM_Permissions      | All of ECOM                  |
 | TCUJudiciary@tufts.edu           | TCUJ@tufts.edu                    | https://outlook.office.com/mail/TCUJudiciary@tufts.edu/           | TCUJUDICIARY_Permissions | All of Judiciary             |
@@ -78,7 +78,7 @@ Setting up out of office (OOO) auto-reply messages are pretty intuitive and ther
 
 ### Introduction to Distribution Lists
 
-Distribution Lists (DLs) are lists internal to the TCU Government that allow for government-wide or branch-wide communication. The membership for DLs are defined by Grouper, the same way access is defined shared inboxes. DLs are different from e-lists. E-lists are used for external communication to large groups of the student body.
+Distribution Lists (DLs) are lists internal to the TCU Government that allow for government-wide or branch-wide communication. The membership for DLs are defined by Grouper, the same way access is defined for shared inboxes. DLs are different from e-lists. E-lists are used for external communication to large groups of the student body.
 
 ### List Settings
 
@@ -96,8 +96,6 @@ Distribution Lists (DLs) are lists internal to the TCU Government that allow for
 | TCUSenateOfficers@tufts.edu     | All of Senate             | TCUSENATE_ALL                                        |
 | TCUJOfficers@tufts.edu          | All of J                  | TCUJUDICIARY_Permissions                             |
 | TCUECOMOfficers@tufts.edu       | All of ECOM               | TCUECOM_Permissions                                  |
-
-
 
 ## Controlling Access with Grouper
 
